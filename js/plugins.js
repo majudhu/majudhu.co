@@ -702,7 +702,7 @@ jQuery(document).ready(function($){
                     listClass : '',
                     gridClass : '',
                     transitionSpeed : 600,
-                    showOnLoad : 'all',
+                    showOnLoad : 'dev',
                     sortOnLoad : false,
                     multiFilter : false,
                     filterLogic : 'or',
