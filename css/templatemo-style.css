@@ -203,7 +203,7 @@ bootstrap.min.css:5
 
 .parallax-content {
   width: 100%;
-  min-height: 30vh;
+  min-height: 24vh;
   background-size: cover;
 }
 
@@ -220,7 +220,7 @@ bootstrap.min.css:5
 }
 
 .baner-content .text-content h2 {
-	font-size: 36px;
+	font-size: 24px;
 	font-weight: 400;
 	color: #fff;
 }
