@@ -702,7 +702,7 @@ jQuery(document).ready(function($){
                     listClass : '',
                     gridClass : '',
                     transitionSpeed : 600,
-                    showOnLoad : 'dev',
+                    showOnLoad : 'projects',
                     sortOnLoad : false,
                     multiFilter : false,
                     filterLogic : 'or',
