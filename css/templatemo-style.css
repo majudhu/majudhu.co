@@ -972,3 +972,17 @@ footer .connect-us ul li a:hover {
   color: #888;
   font-size: 11px;
 }
+
+.eduwork span {
+  border-radius: 5px;
+  padding: 1px 3px;
+  margin-right: 4px;
+  color: #444;
+  background: #ddd;
+  font-size: 12px;
+}
+
+.eduwork {
+  padding: 10px 0px;
+  border-bottom: solid 1px #ddd;
+}
