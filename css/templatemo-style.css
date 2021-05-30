@@ -48,7 +48,7 @@ p {
 
 .primary-blue-button a {
   display: inline-block;
-  background-color: #33c1cf;
+  background-color: #a8b930;
   font-size: 13px;
   padding: 12px 18px;
   color: #fff;
@@ -61,7 +61,7 @@ p {
 
 .pop-button h4 {
   display: inline-block;
-  background-color: #33c1cf;
+  background-color: #a8b930;
   font-size: 13px !important;
   padding: 12px 18px;
   color: #fff;
@@ -138,7 +138,7 @@ p {
 }
 .navbar-brand em {
   font-style: normal;
-  color: #f7c552;
+  color: #24a272;
   font-size: 24px;
 }
 .header.active .navbar-brand {
@@ -160,12 +160,12 @@ p {
 }
 .navbar-inverse .navbar-toggle {
   margin-top: 22px;
-  border-color: #f7c552;
-  background-color: #f7c552;
+  border-color: #24a272;
+  background-color: #24a272;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #f7c552;
+  background-color: #24a272;
 }
 
 .navbar-toggle {
@@ -227,13 +227,13 @@ p {
 
 .baner-content .text-content h2 span {
   font-weight: 700;
-  color: #33c1cf !important;
+  color: #a8b930 !important;
 }
 
 .baner-content .text-content h2 em {
   font-style: normal;
   font-weight: 700;
-  color: #f89624 !important;
+  color: #00caf9 !important;
 }
 
 .baner-content .text-content p {
@@ -278,7 +278,7 @@ p {
   line-height: 104px;
   border: 3px solid #fff;
   border-radius: 50%;
-  background-color: #f7c552;
+  background-color: #24a272;
 }
 
 #about .service-item h4 {
@@ -333,7 +333,7 @@ p {
 }
 
 .filter-categories ul li.active span {
-  color: #f7c552;
+  color: #24a272;
 }
 
 #portoflio .page-section {
@@ -343,8 +343,8 @@ p {
 #portfolio .section-heading {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-color: #33c1cf;
-  height: 620px;
+  background-color: #a8b930;
+  height: 630px;
   margin-left: -100vh;
   padding-left: 100vh;
 }
@@ -375,9 +375,9 @@ p {
 }
 
 #testimonial {
-  background-color: #f7c552;
+  background-color: #24a272;
   text-align: center;
-  padding: 100px 0px;
+  padding: 50px 0px;
 }
 
 #testimonial .testimonials-item h4 {
@@ -493,11 +493,11 @@ p {
 }
 
 .tabs a:hover {
-  color: #f7c552;
+  color: #24a272;
 }
 
 .tabs .active {
-  color: #f7c552;
+  color: #24a272;
 }
 #first-tab-group {
   margin-top: 30px;
@@ -519,11 +519,11 @@ p {
 }
 .tabgroup .text-content span {
   font-size: 13px;
-  color: #33c1cf;
+  color: #a8b930;
 }
 .tabgroup .text-content a {
   font-size: 13px;
-  color: #33c1cf;
+  color: #a8b930;
   text-decoration: none;
 }
 .tabgroup .text-content p {
@@ -600,7 +600,7 @@ p {
 
 #contact button {
   display: inline-block;
-  background-color: #f7c552;
+  background-color: #24a272;
   font-size: 13px;
   padding: 12px 18px;
   color: #fff;
@@ -644,7 +644,7 @@ p {
   line-height: 44px;
   color: #fff;
   text-align: center;
-  background-color: #33c1cf;
+  background-color: #a8b930;
 }
 
 .pop span:hover {
@@ -660,7 +660,7 @@ footer {
 footer .logo em {
   font-style: normal;
   font-size: 28px;
-  color: #f7c552;
+  color: #24a272;
 }
 footer .logo-ft {
   display: inline-block;
@@ -684,7 +684,7 @@ footer .logo p {
 
 footer .logo span {
   font-weight: 600;
-  color: #f7c552;
+  color: #24a272;
 }
 
 footer .logo a {
@@ -776,7 +776,7 @@ footer .connect-us ul li a {
   transition: all 0.3s;
 }
 footer .connect-us ul li a:hover {
-  background-color: #f7c552;
+  background-color: #24a272;
 }
 
 /* RESPONSIVE */
@@ -794,7 +794,7 @@ footer .connect-us ul li a:hover {
     text-align: center;
     padding-top: 100px;
     padding-bottom: 100px;
-    background-color: #33c1cf;
+    background-color: #a8b930;
     height: 505px;
     margin-left: -15px;
     padding-left: 0vh;
@@ -985,4 +985,29 @@ footer .connect-us ul li a:hover {
 .eduwork {
   padding: 10px 0px;
   border-bottom: solid 1px #ddd;
+}
+
+#hobbys {
+  background-color: #24a272;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+#hobbys .owl-pagination {
+  margin: 0;
+}
+
+#hobbys .testimonials-item p {
+  font-size: 14px;
+  color: #9a9a9a;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#hobbys .testimonials-item h2 {
+  color: #fff;
+}
+#hobbys .testimonials-item h3 {
+  color: #d44457;
 }
