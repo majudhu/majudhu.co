@@ -2,4 +2,6 @@
 
 My personal blog website
 
+Mirrors: [Github](https://majudhu.github.io/majudhu.co/) [Vercel](https://majudhu.vercel.app)
+
 [Tinker Free Template from Free CSS](https://www.free-css.com/free-css-templates/page243/tinker)
