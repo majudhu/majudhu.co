@@ -1016,3 +1016,8 @@ footer .connect-us ul li a:hover {
 #hobbys .testimonials-item h3 {
   color: #d44457;
 }
+
+.mix.socialmedia a {
+  display: inline-block;
+  padding: 16px;
+}
