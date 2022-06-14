@@ -313,6 +313,12 @@ p {
   padding: 30px 15px 0px 15px;
 }
 
+.projects-holder-3 {
+  overflow-y: auto !important;
+  max-height: 594px !important;
+  padding: 0px 16px !important;
+}
+
 .filter-categories {
   margin-top: 60px;
 }
@@ -344,7 +350,6 @@ p {
   padding-top: 100px;
   padding-bottom: 100px;
   background-color: #a8b930;
-  height: 630px;
   margin-left: -100vh;
   padding-left: 100vh;
 }
