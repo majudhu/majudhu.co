@@ -1,10 +1,17 @@
-# [majudhu.co](https://majudhu.co)
+# [!!! CHECKOUT THE NEW WEBSITE !!!](https://majudhu.co)
+
+[GitHub Repo](https://github.com/majudhu/majudhu.co-astro)
+Mirrors:
+[Vercel](https://majudhu.vercel.app)
+[Cloudflare](https://majudhu.pages.dev)
+
+## The Old Website
 
 My personal blog website
 
-Mirrors: 
-[Github](https://majudhu.github.io/majudhu.co/) 
-[Vercel](https://majudhu.vercel.app) 
-[Cloudflare](https://majudhu.pages.dev) 
+Mirrors:
+[GitHub Pages](https://majudhu.github.io/majudhu.co)
+[Vercel](https://majudhu-old.vercel.app)
+[Cloudflare](https://majudhu-old.pages.dev)
 
-[Tinker Free Template from Free CSS](https://www.free-css.com/free-css-templates/page243/tinker)
+Based on [Tinker Free Template from Free CSS](https://www.free-css.com/free-css-templates/page243/tinker)
